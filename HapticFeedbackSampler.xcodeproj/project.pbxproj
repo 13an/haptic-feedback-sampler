@@ -59,11 +59,11 @@
 			children = (
 				3E860F262BD3853A006C6F34 /* HapticFeedbackSamplerApp.swift */,
 				3E860F282BD3853A006C6F34 /* ContentView.swift */,
-				3E860F2A2BD3853B006C6F34 /* Assets.xcassets */,
-				3E860F2C2BD3853B006C6F34 /* Preview Content */,
 				3E860F342BD38566006C6F34 /* HapticEngine.swift */,
 				3E860F362BD38588006C6F34 /* light.ahap */,
 				3E860F382BD385AA006C6F34 /* medium.ahap */,
+				3E860F2A2BD3853B006C6F34 /* Assets.xcassets */,
+				3E860F2C2BD3853B006C6F34 /* Preview Content */,
 			);
 			path = HapticFeedbackSampler;
 			sourceTree = "<group>";

@@ -15,7 +15,7 @@
                 "EventType": "HapticTransient",
                 "EventParameters":
                 [
-                    { "ParameterID": "HapticIntensity", "ParameterValue": 0.6 },
+                    { "ParameterID": "HapticIntensity", "ParameterValue": 0.5 },
                     { "ParameterID": "HapticSharpness", "ParameterValue": 0.9 }
                 ]
             }
