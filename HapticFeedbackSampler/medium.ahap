@@ -1,0 +1,24 @@
+{
+    "Version": 1.0,
+    "Metadata":
+        {
+            "Project" : "HapticFeedbackSampler",
+            "Created" : "20 April 2024",
+            "Description" : "medium"
+        },
+    "Pattern":
+    [
+        {
+            "Event":
+            {
+                "Time": 0.0,
+                "EventType": "HapticTransient",
+                "EventParameters":
+                [
+                    { "ParameterID": "HapticIntensity", "ParameterValue": 0.6 },
+                    { "ParameterID": "HapticSharpness", "ParameterValue": 0.9 }
+                ]
+            }
+        }
+    ]
+}
